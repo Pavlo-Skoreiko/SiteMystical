@@ -47,24 +47,14 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-container-layout-1 {
-    padding-top: 0;
-  }
-}
-
-@media (max-width: 767px) {
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
     margin-right: 151px;
     margin-left: 26px;
   }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-top: 0;
-  }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .u-section-1 .u-text-1 {
     margin-right: 0;
     margin-left: 0;
